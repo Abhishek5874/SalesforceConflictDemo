@@ -1,5 +1,6 @@
 public class Scenario {
     public static void greet() {
-        System.debug('Hello from main branch!');
+        System.debug('Main branch changed this message!');
+        System.debug('This is a new debug log.');
     }
 }
